@@ -1,1 +1,1 @@
-# flower-images-classification
+# Flower Image Classifier
